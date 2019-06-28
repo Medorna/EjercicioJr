@@ -2,13 +2,13 @@
 Imaginemos una concesionaria de autos y motos.
 Crear un programa cuyo punto de entrada sea un main en donde, al ejecutarse, se visualiza
 lo siguiente por consola y se termina la ejecución:
-<p>Marca: Peugeot // Modelo: 206 // Puertas: 4 // Precio: $200.000,00
-Marca: Honda // Modelo: Titan // Cilindrada: 125c // Precio: $60.000,00
-Marca: Peugeot // Modelo: 208 // Puertas: 5 // Precio: $250.000,00
-Marca: Yamaha // Modelo: YBR // Cilindrada: 160c // Precio: $80.500,50
+<p>Marca: Peugeot // Modelo: 206 // Puertas: 4 // Precio: $200.000,00<br>
+Marca: Honda // Modelo: Titan // Cilindrada: 125c // Precio: $60.000,00<br>
+Marca: Peugeot // Modelo: 208 // Puertas: 5 // Precio: $250.000,00<br>
+Marca: Yamaha // Modelo: YBR // Cilindrada: 160c // Precio: $80.500,50<br>
 =============================</p>
-<p>Vehículo más caro: Peugeot 208
-Vehículo más barato: Honda Titan
+<p>Vehículo más caro: Peugeot 208<br>
+Vehículo más barato: Honda Titan<br>
 Vehículo que contiene en el modelo la letra ‘Y’: Yamaha YBR $80.500,50</p>
 <p>Ejercicio extra (si lo haces sumas puntos)
 =============================
