@@ -12,10 +12,10 @@ Vehículo más barato: Honda Titan<br>
 Vehículo que contiene en el modelo la letra ‘Y’: Yamaha YBR $80.500,50</p>
 <p>Ejercicio extra (si lo haces sumas puntos)<br>
 =============================<br>
-Vehículos ordenados por precio de mayor a menor:
-Peugeot 208
-Peugeot 206
-Yamaha YBR
+Vehículos ordenados por precio de mayor a menor:<br>
+Peugeot 208<br>
+Peugeot 206<br>
+Yamaha YBR<br>
 Honda Titan</p>
 La solución debe cumplir con los siguientes requisitos:
 <ol><li>- Diseñar una solución orientada a objetos, creando por lo menos una clase abstracta y
