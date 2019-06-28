@@ -1,10 +1,8 @@
-# EjercicioJr
-
 <h1>Ejercicio Onready</h1>
 Imaginemos una concesionaria de autos y motos.
 Crear un programa cuyo punto de entrada sea un main en donde, al ejecutarse, se visualiza
 lo siguiente por consola y se termina la ejecución:
-<td>Marca: Peugeot // Modelo: 206 // Puertas: 4 // Precio: $200.000,00
+<p>Marca: Peugeot // Modelo: 206 // Puertas: 4 // Precio: $200.000,00
 Marca: Honda // Modelo: Titan // Cilindrada: 125c // Precio: $60.000,00
 Marca: Peugeot // Modelo: 208 // Puertas: 5 // Precio: $250.000,00
 Marca: Yamaha // Modelo: YBR // Cilindrada: 160c // Precio: $80.500,50
@@ -18,7 +16,7 @@ Vehículos ordenados por precio de mayor a menor:
 Peugeot 208
 Peugeot 206
 Yamaha YBR
-Honda Titan</td>
+Honda Titan</p>
 La solución debe cumplir con los siguientes requisitos:
 <ol><li>- Diseñar una solución orientada a objetos, creando por lo menos una clase abstracta y
 una interface.</li>
