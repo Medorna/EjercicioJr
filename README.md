@@ -10,7 +10,7 @@ Marca: Yamaha // Modelo: YBR // Cilindrada: 160c // Precio: $80.500,50<br>
 <p>Vehículo más caro: Peugeot 208<br>
 Vehículo más barato: Honda Titan<br>
 Vehículo que contiene en el modelo la letra ‘Y’: Yamaha YBR $80.500,50</p>
-<p>Ejercicio extra (si lo haces sumas puntos)
+<p>Ejercicio extra (si lo haces sumas puntos)<br>
 =============================
 Vehículos ordenados por precio de mayor a menor:
 Peugeot 208
