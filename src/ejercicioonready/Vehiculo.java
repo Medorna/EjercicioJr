@@ -32,6 +32,7 @@ public Vehiculo(String marca, String modelo,int precio){
         
     }
     
+    @Override
     public int compareTo(Vehiculo t) {
         if (t.getPrecio() < this.getPrecio()) {
             return 1;
@@ -40,6 +41,7 @@ public Vehiculo(String marca, String modelo,int precio){
         } else {
             return 0;
         }
+        
     }
 }
     

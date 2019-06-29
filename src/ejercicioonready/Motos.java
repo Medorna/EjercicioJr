@@ -3,7 +3,7 @@ package ejercicioonready;
 
 public class Motos extends Vehiculo{
     
-    private int cilindradas;
+    private final int cilindradas;
 
     
     public Motos(String marca, String modelo, int cilindradas, int precio) {
@@ -15,7 +15,7 @@ public class Motos extends Vehiculo{
     @Override
     public String toString(){
         
-        return "Marca: " + marca + " // " + "Modelo: " + modelo + " // " + "Cilindrada: "+ cilindradas + "c" + "//" + " Precio: "+precio+"$";
+        return "Marca: " + marca + " // " + "Modelo: " + modelo + " // " + "Cilindrada: "+ cilindradas + "c" + "//" + " Precio: $"+precio;
         
     }
 }

@@ -24,21 +24,28 @@ public class EjercicioOnready {
         for(Vehiculo v: vehiculoLista){
         
             System.out.println(v.toString());
-            
+        
         }
         
         System.out.println("=============================");
-        
         System.out.println("Vehículo más caro: " + Collections.max(vehiculoLista).getMarca()+ " " + Collections.max(vehiculoLista).getModelo());
         System.out.println("Vehículo más barato: " + Collections.min(vehiculoLista).getMarca()+ " " + Collections.min(vehiculoLista).getModelo());
         
+        //encontrar modelo con letra 'Y'
+        System.out.print("Vehículo que contiene en el modelo la letra 'Y': ");
+        for(Vehiculo e:vehiculoLista){
+            
+            if(e.getModelo().contains("Y")){
+                System.out.println(e.getMarca()+" "+e.getModelo()+ "  $"+ e.getPrecio());
+            }
+        }
         //Bonus Track
         System.out.println("============================= \nVehículos ordenados por precio de mayor a menor:");
         
         Comparator<Vehiculo> comparar = Collections.reverseOrder();
         Collections.sort(vehiculoLista, comparar);
         
-       for(Vehiculo v: vehiculoLista){
+        for(Vehiculo v: vehiculoLista){
         
             System.out.println(v.getMarca() + " " +v.getModelo());
             
